@@ -3,7 +3,7 @@
 The purpose of this respository is to use python and different machine learning models to analyze and predict credit risk. A sample data set was provided with several parameters and ultimately these variables will be inputed into 6 different ML models and the accuracy will be discussed. 
 ## Results
 ### Random Over Sampler Model
-![Random Over Sampler Model Accuracy](Random_Sample_acc.png)
+![Random Over Sampler Model Accuracy](https://github.com/cchoi22/Credit_Risk_Analysis/blob/main/Random_Sample_acc.PNG)
 -Model accuracy score was 64.93%
 -High risk precision was 1% with a sensitivity of 63% and f1 of 2%
 -Low risk precision was 100% with a sensitivity of 67%
