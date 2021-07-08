@@ -8,27 +8,27 @@ The purpose of this respository is to use python and different machine learning 
 -High risk precision was 1% with a sensitivity of 63% and f1 of 2%  
 -Low risk precision was 100% with a sensitivity of 67%  
 ### SMOTE
-![SMOTE Model Accuracy](SMOTE_Acc.png)
+![SMOTE Model Accuracy](https://github.com/cchoi22/Credit_Risk_Analysis/blob/main/SMOTE_Acc.PNG)
 -Model accuracy score was 63.59%  
 -High risk precision was 1% with a sensitivity of 61% and f1 of 2%  
 -Low risk precision was 100% with a sensitivity of 66%  
 ### Cluster Centroids Model
-![Cluster Centroids Model Accuracy](centroid_acc.png)
+![Cluster Centroids Model Accuracy](https://github.com/cchoi22/Credit_Risk_Analysis/blob/main/centroid_acc.png)
 -Model accuracy score was 52.40%  
 -High risk precision was 1% with a sensitivity of 63% and f1 of 1%  
 -Low risk precision was 100% with a sensitivity of 40%  
 ### SMOTEENN Model
-![SMOTEENN Model Accuracy](smoteenn_Acc.png)
+![SMOTEENN Model Accuracy](https://github.com/cchoi22/Credit_Risk_Analysis/blob/main/smoteenn_Acc.png)
 -Model accuracy score was 63.76%  
 -High risk precision was 1% with a sensitivity of 70% and f1 of 2%    
 -Low risk precision was 100% with a sensitivity of 57%    
 ### Balanced Random Forest Classifier Model
-![Balanced Random Forest Model Accuracy](balanced_forest_acc.png)
+![Balanced Random Forest Model Accuracy](https://github.com/cchoi22/Credit_Risk_Analysis/blob/main/balanced_forest_acc.png)
 -Model accuracy score was 92.54%  
 -High risk precision was 7% with a sensitivity of 91% and f1 of 14%  
 -Low risk precision was 100% with a sensitivity of 94%  
 ### Easy Ensemble Classifier 
-![Easy Ensemble Classifier Model Accuracy](ensemble_acc.png)
+![Easy Ensemble Classifier Model Accuracy](https://github.com/cchoi22/Credit_Risk_Analysis/blob/main/ensemble_acc.png)
 -Model accuracy score was 92.54%  
 -High risk precision was 7% with a sensitivity of 91% and f1 of 14%  
 -Low risk precision was 100% with a sensitivity of 94%  
