@@ -18,7 +18,7 @@ The purpose of this respository is to use python and different machine learning 
 -High risk precision was 1% with a sensitivity of 63% and f1 of 1%  
 -Low risk precision was 100% with a sensitivity of 40%  
 ### SMOTEENN Model
-![SMOTEENN Model Accuracy](https://github.com/cchoi22/Credit_Risk_Analysis/blob/main/smoteenn_Acc.png)
+![SMOTEENN Model Accuracy](https://github.com/cchoi22/Credit_Risk_Analysis/blob/main/smoteenn_Acc.PNG)
 -Model accuracy score was 63.76%  
 -High risk precision was 1% with a sensitivity of 70% and f1 of 2%    
 -Low risk precision was 100% with a sensitivity of 57%    
