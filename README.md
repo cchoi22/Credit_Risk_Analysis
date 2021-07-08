@@ -23,12 +23,12 @@ The purpose of this respository is to use python and different machine learning 
 -High risk precision was 1% with a sensitivity of 70% and f1 of 2%    
 -Low risk precision was 100% with a sensitivity of 57%    
 ### Balanced Random Forest Classifier Model
-![Balanced Random Forest Model Accuracy](https://github.com/cchoi22/Credit_Risk_Analysis/blob/main/balanced_forest_acc.png)
+![Balanced Random Forest Model Accuracy](https://github.com/cchoi22/Credit_Risk_Analysis/blob/main/balanced_forest_acc.PNG)
 -Model accuracy score was 92.54%  
 -High risk precision was 7% with a sensitivity of 91% and f1 of 14%  
 -Low risk precision was 100% with a sensitivity of 94%  
 ### Easy Ensemble Classifier 
-![Easy Ensemble Classifier Model Accuracy](https://github.com/cchoi22/Credit_Risk_Analysis/blob/main/ensemble_acc.png)
+![Easy Ensemble Classifier Model Accuracy](https://github.com/cchoi22/Credit_Risk_Analysis/blob/main/ensemble_acc.PNG)
 -Model accuracy score was 92.54%  
 -High risk precision was 7% with a sensitivity of 91% and f1 of 14%  
 -Low risk precision was 100% with a sensitivity of 94%  
