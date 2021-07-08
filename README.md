@@ -13,7 +13,7 @@ The purpose of this respository is to use python and different machine learning 
 -High risk precision was 1% with a sensitivity of 61% and f1 of 2%  
 -Low risk precision was 100% with a sensitivity of 66%  
 ### Cluster Centroids Model
-![Cluster Centroids Model Accuracy](https://github.com/cchoi22/Credit_Risk_Analysis/blob/main/centroid_acc.png)
+![Cluster Centroids Model Accuracy](https://github.com/cchoi22/Credit_Risk_Analysis/blob/main/centroid_acc.PNG)
 -Model accuracy score was 52.40%  
 -High risk precision was 1% with a sensitivity of 63% and f1 of 1%  
 -Low risk precision was 100% with a sensitivity of 40%  
